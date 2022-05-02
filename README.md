@@ -11,7 +11,7 @@
 - 🏫 BSc, School of Information Management and Engineering, Shanghai University of Finance and Economics.
 
 ### Academic Service
-- 📖 I serve as a lecturer of *“Introduction to Python in Social Science”* in Quantitative Club of Tsinghua University. The corresponding materials will be uploaded soon.
+- 📖 I serve as a lecturer of *“Introduction to Python in Social Science”* in Quantitative Club of Tsinghua University. The materials inwill be uploaded soon.
 
 <!---
 doslim/doslim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
