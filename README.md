@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Silin DU </font>
 
 ### About Me
-- 👨‍💻 I'm now a PhD student of **information system** in *Department of Management Science and Engineering, Tsinghua University*.
+- 👨‍💻 I'm now a Ph.D. student of **information system** in *Department of Management Science and Engineering, Tsinghua University*.
 - 👀 My research interests mainly lie in the intersection of data mining, machine learning and business applications.
 - ✨ I currently focus on recommender systems, reinforcement learning and data-driven pricing frameworks.
 - 📫 Contact me by dsl21@mails.tsinghua.edu.cn
