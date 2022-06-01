@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Silin DU </font>
 
-My avatar is my cute cat, named Maomao (毛毛)🐱
+My avatar is my cute cat 🐱, named Maomao. (毛毛)
 
 ### About Me
 - 👨‍💻 I'm now a Ph.D. student of **information system** in *Department of Management Science and Engineering, Tsinghua University*.
