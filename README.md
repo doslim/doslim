@@ -1,11 +1,14 @@
 ### 👋 Hi, I’m Silin DU </font>
+![](https://visitor-badge.glitch.me/badge?page_id=Doslim.Doslim)
 
-My avatar is my cute cat 🐱, named Maomao. (毛毛)
+I'm now a Ph.D. student of **information system** in *[Department of Management Science and Engineering](https://www.sem.tsinghua.edu.cn/mse/), [Tsinghua University](https://www.tsinghua.edu.cn/)*. Besides programming, I love sports, including swimming🏊, badminton🏸️ and body building🏋️. My avatar is my cute cat🐱, named Maomao. (毛毛)
 
+ <img align="right" alt="GIF" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pcnf60xwxirs8y1bhtcqkqilodjw2coxx1y5i1n2&rid=giphy.gif&ct=g" />
+ 
 ### About Me
-- 👨‍💻 I'm now a Ph.D. student of **information system** in *[Department of Management Science and Engineering](https://www.sem.tsinghua.edu.cn/mse/), [Tsinghua University](https://www.tsinghua.edu.cn/)*.
 - 👀 My research interests mainly lie in the intersection of data mining, machine learning and business intelligence.
-- ✨ I currently focus on recommender systems, reinforcement learning and data-driven pricing frameworks.
+- ✨ I currently focus on recommender systems, reinforcement learning and data-driven decision-making.
+-  I'm looking to collabrate on mahcine learning applications in business🤝.
 - 📫 Contact me by dsl21@mails.tsinghua.edu.cn
 
 ### Education
