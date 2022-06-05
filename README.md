@@ -29,8 +29,8 @@ I'm now a Ph.D. student of **information system** in *[Department of Management 
 - 📖 I served as a lecturer of *“Introduction to Python in Social Science”* in Quantitative Club of Tsinghua University. The materials in this course will be uploaded soon.
 - 📖 I wrote a notes about basic knowledge in deep learning (in Chinese): [Fundamentals and Applications of Deep Learning](https://github.com/doslim/Fundamentals-and-Applications-of-Deep-Learning)
 
-![Silin Du's GitHub stats](https://github-readme-stats.vercel.app/api?username=doslim&theme=radical&show_icons=true&count_private=true&include_all_commits=true) ![Silin Du](https://github-readme-stats.vercel.app/api/top-langs/?username=doslim&hide=html&layout=compact&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doslim&theme=monokai&count_private=true&include_all_commits=true)
+![Silin Du's GitHub stats](https://github-readme-stats.vercel.app/api?username=doslim&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true) ![Silin Du](https://github-readme-stats.vercel.app/api/top-langs/?username=doslim&hide=html&layout=compact&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doslim&theme=tokyonight&count_private=true&include_all_commits=true)
 
 <!---
 doslim/doslim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
