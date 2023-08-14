@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Silin DU </font>
 
-<div align="le f t">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Doslim.Doslim&"  />
 </div>
 
