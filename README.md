@@ -1,6 +1,8 @@
 ### 👋 Hi, I’m Silin DU </font>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Doslim.Doslim)
+<div align="le f t">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Doslim.Doslim"  />
+</div>
 
 I'm now a Ph.D. student of **information system** in *[Department of Management Science and Engineering](https://www.sem.tsinghua.edu.cn/mse/), [Tsinghua University](https://www.tsinghua.edu.cn/)*. Besides research and programming, I love sports, including swimming🏊, badminton🏸️ and body building🏋️. My avatar is my cute cat🐱, named Maomao. (毛毛)
 
