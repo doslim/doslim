@@ -1,5 +1,7 @@
 ### 👋 Hi, I’m Silin DU </font>
 
+[Visit My Homepage](https://doslim.github.io)
+
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Doslim.Doslim"  />
 </div>
@@ -31,7 +33,7 @@ I'm now a Ph.D. student of **information system** in *[Department of Management 
 ### Academic Service
 - 📖 I serve as a lecturer of *“Introduction to Python in Social Science”* in Quantitative Club of Tsinghua University. The materials in this course will be uploaded soon.
 - 📖 I write notes about basic knowledge in deep learning (in Chinese): [Fundamentals and Applications of Deep Learning](https://github.com/doslim/Fundamentals-and-Applications-of-Deep-Learning)
-- 👨‍🏫 TA for undergraduate courses: Java Programming and Fundamentals of Business Computing and Intelligent Analytics
+<!--- - 👨‍🏫 TA for undergraduate courses: Java Programming and Fundamentals of Business Computing and Intelligent Analytics --->
 - 🔍 Reviewer: PAKDD, Information & Management
 
 ![Silin Du's GitHub stats](https://github-readme-stats.vercel.app/api?username=doslim&theme=monokai&show_icons=true&count_private=true&include_all_commits=true) ![Silin Du](https://github-readme-stats.vercel.app/api/top-langs/?username=doslim&hide=html&layout=compact&theme=monokai)
