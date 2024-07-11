@@ -17,7 +17,7 @@ I'm now a Ph.D. student of **information system** in *[Department of Management 
 - 📫 Contact me by dsl21@mails.tsinghua.edu.cn
 
 ### News
-- *2024.7* 🎲 Our paper, "Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language Models in the Werewolf Game", is accepted to First Conference on Language Modeling (COLM) 2024.
+- *2024.7*: 🎉 Our paper, "Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language Models in the Werewolf Game", is accepted to First Conference on Language Modeling (COLM) 2024.
 
 ### Publication
 - Silin Du & Xiaowei Zhang, Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language Models in the Werewolf Game, *First Conference on Language Modeling (COLM)*, 2024. 
