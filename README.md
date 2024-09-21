@@ -12,9 +12,9 @@ I'm now a Ph.D. student of **information system** in *[Department of Management 
  
 ### About Me
 - 👀 My research interests mainly lie in the intersection of three directions:
-  (1) Designing advanced methods for business intelligence.
-  (2) Evaluating intelligent agents in terms of social, ethical and human-interaction aspects.
-  (3) Reshaping traditional business process (e.g., talent selection and evaluation) with new technologies.
+  - Designing advanced methods for business intelligence.
+  - Evaluating intelligent agents in terms of social, ethical and human-interaction aspects.
+  - Reshaping traditional business process (e.g., talent selection and evaluation) with new technologies.
 - ✨ I currently focus on recommender systems and large language models.
 - 🙌 I'm looking to collaborate on machine learning applications in social science and business 🤝.
 - 📫 Contact me by dsl21@mails.tsinghua.edu.cn
