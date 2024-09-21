@@ -11,13 +11,21 @@ I'm now a Ph.D. student of **information system** in *[Department of Management 
  <img align="center" alt="GIF" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pcnf60xwxirs8y1bhtcqkqilodjw2coxx1y5i1n2&rid=giphy.gif&ct=g" />
  
 ### About Me
-- 👀 My research interests mainly lie in the intersection of **data mining, machine learning and business intelligence**.
+- 👀 My research interests mainly lie in the intersection of three directions:
+  (1) Designing advanced methods for business intelligence.
+  (2) Evaluating intelligent agents in terms of social, ethical and human-interaction aspects.
+  (3) Reshaping traditional business process (e.g., talent selection and evaluation) with new technologies.
 - ✨ I currently focus on recommender systems and large language models.
 - 🙌 I'm looking to collaborate on machine learning applications in social science and business 🤝.
 - 📫 Contact me by dsl21@mails.tsinghua.edu.cn
 
 ### News
-- *2024.7*: 🎉 Our paper, "Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language Models in the Werewolf Game", is accepted to First Conference on Language Modeling (COLM) 2024.
+<div class="scrollable">
+  <ul>
+  <li> <i>2024.9</i>: 🎲 One paper is accepted to International Conference on Information Systems (ICIS) 2024. </li>
+  <li> <i>2024.7</i>: 🎲 Our paper, "Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language Models in the Werewolf Game", is accepted to First Conference on Language Modeling (COLM) 2024. </li>
+  </ul>
+</div>
 
 ### Publication
 - Silin Du & Xiaowei Zhang, Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language Models in the Werewolf Game, *First Conference on Language Modeling (COLM)*, 2024. 
