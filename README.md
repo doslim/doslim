@@ -18,8 +18,7 @@ I'm now a Ph.D. student of **information system** in *[Department of Management 
 - ✨ I currently focus on recommender systems and large language models.
 - 🙌 I'm looking to collaborate on machine learning applications in social science and business 🤝.
 - 📫 Contact me by dsl21@mails.tsinghua.edu.cn
-
-#### $\color{red}\text{🔍 I am actively seeking a position as a visiting Ph.D. student.}$
+- $\color{red}\text{🔍 I am actively seeking a position as a visiting Ph.D. student.}$
 
 
 ### News
