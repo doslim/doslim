@@ -28,6 +28,7 @@ I'm now a Ph.D. student of **information system** in *[Department of Management 
 </div>
 
 ### Publication
+- Silin Du & Hongyan Liu, L3TR: Large Language Models for Listwise Talent Recommendation,  *International Conference on Information Systems (ICIS)*, 2024. 
 - Silin Du & Xiaowei Zhang, Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language Models in the Werewolf Game, *First Conference on Language Modeling (COLM)*, 2024. 
 
 ### Education
@@ -46,8 +47,8 @@ I'm now a Ph.D. student of **information system** in *[Department of Management 
 
 ### Academic Service
 - 🔍 Reviewer: PAKDD, Information & Management
-- 📖 I serve as a lecturer of *“Introduction to Python in Social Science”* in Quantitative Club of Tsinghua University.
-- 📖 I write notes about basic knowledge in deep learning (in Chinese): [Fundamentals and Applications of Deep Learning](https://github.com/doslim/Fundamentals-and-Applications-of-Deep-Learning)
+- 📖 I served as a lecturer of *“Introduction to Python in Social Science”* in Quantitative Club of Tsinghua University.
+<!-- - 📖 I write notes about basic knowledge in deep learning (in Chinese): [Fundamentals and Applications of Deep Learning](https://github.com/doslim/Fundamentals-and-Applications-of-Deep-Learning) -->
 <!--- - 👨‍🏫 TA for undergraduate courses: Java Programming and Fundamentals of Business Computing and Intelligent Analytics --->
 
 ![Silin Du's GitHub stats](https://github-readme-stats.vercel.app/api?username=doslim&theme=monokai&show_icons=true&count_private=true&include_all_commits=true) ![Silin Du](https://github-readme-stats.vercel.app/api/top-langs/?username=doslim&hide=html&layout=compact&theme=monokai)
